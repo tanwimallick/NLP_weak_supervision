@@ -12,6 +12,8 @@ We designed a method for programmatic labeling of a large corpus using weak supe
 
 The cliamte and critical infrastructure data is available under data folder in the file data_NCF_climate_all.csv
 
+## Generate label using weak supervision 
+
 Simply run the following command to generate the label for the first climate definition.
 
 python snorkel_label0.py
