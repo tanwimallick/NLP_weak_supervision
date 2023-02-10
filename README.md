@@ -16,4 +16,6 @@ The cliamte and critical infrastructure data is available under data folder in t
 
 Simply run the following command to generate the label for the first climate definition.
 
+```bash
 python snorkel_label0.py
+```
